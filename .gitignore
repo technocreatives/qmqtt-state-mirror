@@ -96,4 +96,4 @@ $RECYCLE.BIN/
 .Trash-*
 
 ### Project specific ###
-local_settings.pri #Local additions to the build process
+local_settings.pri
